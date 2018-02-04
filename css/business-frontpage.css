@@ -31,3 +31,11 @@ body {
 #search-button {
   margin-top: 2em;
 }
+
+#code_table {
+  display: none;
+}
+
+h1 {
+  /*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+}
